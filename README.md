@@ -1,6 +1,7 @@
 # hyperbog
 Un blog increible para el [curso de Git y Github](http://https://platzi.com/cursos/git-github/ "curso de git y github") para el curso de platzi 
 > Este es un curso de Git y Github el cual es muy necesario para poder entrar al mundo del trabajo en la tecnologia
+
 > Alguien
 
 ##En este curso podemos ver:
