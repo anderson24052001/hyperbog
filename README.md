@@ -9,5 +9,6 @@ Un blog increible para el [curso de Git y Github](http://https://platzi.com/curs
 - El flujo de trabajo en Git
 - El uso de las buenas practicas
 - Algunos trucos
+-Creado por anderson
 
 Pd: Este reedme es una prueba (**No tomar en serio)**, si llegas hasta este punto no lo tomes en serio, [mejor mira el curso ](htthttps://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/p:// "mejor mira el curso ")
